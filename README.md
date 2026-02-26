@@ -57,7 +57,7 @@ The repository is organized into two main folders to separate the frontend and b
 
 Before getting started with the Practicing Projects, you should have a basic understanding of `MongoDB, Express.js, React.js, Node.js, HTML, CSS, TailwindCSS and JavaScript.`
 
-## 🔥 Clone this Repository
+## 🔥 How to run
 
 You need to write the following commands on the terminal screen (in vscode) so that you can run this project locally.
 
