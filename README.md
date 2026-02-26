@@ -104,11 +104,11 @@ Run the application:
 
 The client application will now be running on `http://localhost:3000` and the server will be listening on `http://localhost:5000`.
 
-If you want to Fork repository and want to run locally, follow this guidelines [Fork and Clone Github Repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
-
-## ✏️ Contributing
-
-This is an Open-Source repository, and contributions are always welcome! If you find an issue, please create a new issue under the "Issues" section. To contribute code, fork the repository and submit a pull request. Your contributions will help make this a valuable resource for the community!
+Team members
+1. Manas Pal
+2. Soumyajit Pal
+3. Ritam Shit
+4. Saptadeep Roy
 
 ## 🤝 Let's Connect
 
