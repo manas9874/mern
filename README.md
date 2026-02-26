@@ -106,7 +106,7 @@ The client application will now be running on `http://localhost:3000` and the se
 
 Team members
 1. Manas Pal
-2. Soumyajit Pal
+2. Soumyajeet Pal
 3. Ritam Shit
 4. Saptadeep Roy
 
